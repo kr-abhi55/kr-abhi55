@@ -1,2 +1,2 @@
 # 💫 About Me:
-🌱 I’m currently learning react and android
+🌱 Mastering fullstack development generally MERN stack
