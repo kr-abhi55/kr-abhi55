@@ -1,1 +1,1 @@
-🌱 Mastering fullstack development generally MERN stack
+🌱 It's fun
