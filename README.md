@@ -1,1 +1,1 @@
-🌱 It's fun
+🌱 figuring out
